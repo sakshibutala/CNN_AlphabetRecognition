@@ -3,7 +3,7 @@ Convolutional Neural Network (CNN) is a Deep Learning Algorithm widely used for 
 
 # File Description
 
-  <b>AlphabetRecognitionfinal.ipynb</b> - This jupyter notebook contains the algortim for the CNN model.
+  <b>AlphabetRecognitionfinal.ipynb</b> - This jupyter notebook contains the algorithm for the CNN model.
   
   <b>Training.zip and Testing.zip</b> - These folders contain images of alphabets ranging from a to z.
   
@@ -47,16 +47,20 @@ _________________________________________________________________
   ##  Accuracy
   <pre><code>  
 Epoch 1/3
-16/16 [==============================] - 1s 67ms/step - loss: 0.2151 - accuracy: 0.8982 - val_loss: 0.3320 - val_accuracy: 0.9339
+16/16 [==============================] - 1s 62ms/step - loss: 0.1866 - accuracy: 0.9082 - val_loss: 0.7112 - val_accuracy: 0.8657
 Epoch 2/3
-16/16 [==============================] - 1s 62ms/step - loss: 0.2082 - accuracy: 0.9142 - val_loss: 0.1022 - val_accuracy: 0.9320
+16/16 [==============================] - 1s 60ms/step - loss: 0.1769 - accuracy: 0.9301 - val_loss: 0.4118 - val_accuracy: 0.8662
 Epoch 3/3
-16/16 [==============================] - 1s 56ms/step - loss: 0.1806 - accuracy: 0.9122 - val_loss: 0.2468 - val_accuracy: 0.94
+16/16 [==============================] - 1s 54ms/step - loss: 0.1672 - accuracy: 0.9261 - val_loss: 0.2001 - val_accuracy: 0.9342
   </code></pre>
   
-  ## Author
-  
-  Sakshi Butala
+Check out my medium article for understanding the algorithm. 
+
+Also, Check out this article for a step by step procedure on how to deploy this algorithm with anvil. 
+
+## Author
+ 
+ Sakshi Butala
   
   
   
