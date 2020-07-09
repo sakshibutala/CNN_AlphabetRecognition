@@ -54,9 +54,9 @@ Epoch 3/3
 16/16 [==============================] - 1s 54ms/step - loss: 0.1672 - accuracy: 0.9261 - val_loss: 0.2001 - val_accuracy: 0.9342
   </code></pre>
   
-Check out my medium article for understanding the algorithm. 
+Check out my medium article for a step by step tutorial on building a CNN model for Alphabet Recognition and deploying it with Anvil.
 
-Also, Check out this article for a step by step procedure on how to deploy this algorithm with anvil. 
+https://medium.com/@sakshibutala12/building-and-deploying-an-alphabet-recognition-system-7ab59654c676?sk=b6f75f1639e8c301995b412b74d589ca
 
 ## Author
  
